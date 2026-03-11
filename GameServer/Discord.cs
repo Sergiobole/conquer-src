@@ -11,7 +11,7 @@ namespace COServer
 {
     public class Discord
     {
-        string API = "";
+        string API = "https://discord.com/api/webhooks/1294239789532315648/5ThwjJ1MCdEjzqIaN3-bSg-KJ6y425-wuP1juVW9cGxcx0AMJwVx3bZxvnRQRhFWoWYC";
         Queue<string> Msgs;
         Uri webhook;
 
@@ -46,7 +46,7 @@ namespace COServer
         }
         public void Enqueue(string str)
         {
-            Msgs.Enqueue(/*$"[{DateTime.Now.ToString()}]: */$"{str}");
+            Msgs.Enqueue($"[{DateTime.Now.ToString()}]:" + $"{str}");
         }
         private void postToDiscord(string Text)
         {
@@ -62,7 +62,7 @@ namespace COServer
                        | SecurityProtocolType.Tls12
                        | SecurityProtocolType.Ssl3;
 
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://discord.com/api/webhooks/1278873234552389667/_H87R46AocADp1yrdxPNgxfOppibkBuxinlF25D714GZG96Jue_9gkMUvZ0clIFNowLh");
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://discord.com/api/webhooks/1294239789532315648/5ThwjJ1MCdEjzqIaN3-bSg-KJ6y425-wuP1juVW9cGxcx0AMJwVx3bZxvnRQRhFWoWYC");
 
                 var content = new FormUrlEncodedContent(discordToPost);
 
@@ -70,7 +70,7 @@ namespace COServer
                 //If you want to check result value
                 if (res.IsSuccessStatusCode)
                 {
-                    //Console.WriteLine("ent {Text}!");
+                    Console.WriteLine("ent {Text}!");
                 }
             }
         }

@@ -5,9 +5,11 @@ using COServer.Game.MsgNpc;
 using COServer.Game.MsgServer;
 using COServer.Game.MsgServer.AttackHandler;
 using COServer.Game.MsgTournaments;
+using MySql.Data.MySqlClient.Memcached;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting;
 using static COServer.Game.MsgServer.MsgMessage;
 using static COServer.Game.MsgServer.MsgPetInfo;
 
@@ -1317,10 +1319,31 @@ namespace COServer.Game.MsgMonster
                         }
                         #endregion
                     }
-                    #endregion
-                }
+					#endregion
 
-            }
+					#region modelo teste drop fixo global +  chance de drop
+
+                    if(Role.Core.Rate(0.05))
+                    {
+                        uint dropcps = 30;
+                        int boundcps = 30;
+                        killer.Player.ConquerPoints += dropcps;
+                        killer.Player.BoundConquerPoints += boundcps;
+                        killer.SendSysMesage($"Você recebeu: {dropcps} CPs");
+                        killer.SendSysMesage($"Você recebeu: {boundcps} CPs bound");
+                        
+                    }
+
+					#endregion
+
+                    // modelo drop para VIP
+                    // modelo de drop variavel global
+                    // modelo de drop por mob
+                    // modelo de drop por mapa
+                    // drop de DB E se for VIP vira DBScroll
+				}
+
+			}
         }
 
         public static string GetItemName(uint ID)

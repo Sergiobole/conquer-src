@@ -6777,3 +6777,100 @@
 [GMLogs]Satélite move tw 
 [GMLogs]Satélite scroll ti 
 [GMLogs]Satélite scroll tw 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] cps 999 
+[GMLogs]Fivework[PM] scroll tc 
+[GMLogs]Fivework[PM] boundcps 9999 
+[GMLogs]Fivework[PM] onlinepoints 1000 
+[GMLogs]Fivework[PM] onlinepoints 100000 
+[GMLogs]Fivework[PM] level 50 
+[GMLogs]Fivework[PM] scroll tc 
+[GMLogs]Fivework[PM] scroll dc 
+[GMLogs]Fivework[PM] scroll ac 
+[GMLogs]Fivework[PM] scroll bi 
+[GMLogs]Fivework[PM] item 721263  
+[GMLogs]Fivework[PM] item 721263 0 0 0 0 
+[GMLogs]Fivework[PM] boundcps 9999 
+[GMLogs]Fivework[PM] semper 
+[GMLogs]Fivework[PM] bcps 9999 
+[GMLogs]Fivework[PM] scroll ma 
+[GMLogs]Fivework[PM] scroll bi 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] xp 
+[GMLogs]Fivework[PM] scroll tc 
+[GMLogs]Fivework[PM] scroll bi 
+[GMLogs]Fivework[PM] join 
+[GMLogs]Fivework[PM] pvp 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] scroll bi 
+[GMLogs]Fivework[PM] level 73 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] scroll tc 
+[GMLogs]Fivework[PM] scroll tc 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] scroll tc 
+[GMLogs]Fivework[PM] memo fds 
+[GMLogs]Fivework[PM] a dsfds 
+[GMLogs]Fivework[PM] ann fdsfds 
+[GMLogs]Fivework[PM] announce fdfds 
+[GMLogs]Fivework[PM] bc fdksjfds 
+[GMLogs]Fivework[PM] testwar2 
+[GMLogs]Fivework[PM] clear 
+[GMLogs]Fivework[PM] clear 
+[GMLogs]Fivework[PM] clear 
+[GMLogs]Fivework[PM] itemid 2100097 
+[GMLogs]Fivework[PM] itemid 2100097 0 0 0 0 
+[GMLogs]Fivework[PM] item 2100097 0 0 0 0 
+[GMLogs]Fivework[PM] iditem 2100097 0 0 0 0 
+[GMLogs]Fivework[PM] ph 
+[GMLogs]Fivework[PM] commands 
+[GMLogs]Fivework[PM] commands 
+[GMLogs]Fivework[PM] iditem 780020 0 0 0 0 
+[GMLogs]Fivework[PM] iditem 780020 
+[GMLogs]Fivework[PM] itemid 780020 
+[GMLogs]Fivework[PM] itemid 780020 0 0 0 0 
+[GMLogs]Fivework[PM] item 780020 0 0 0 0 
+[GMLogs]Fivework[PM] item 780020 
+[GMLogs]Fivework[PM] item 780020 0 0 0 0 
+[GMLogs]Fivework[PM] item 780000 0 0 0 0 
+[GMLogs]Fivework[PM] item 1072010 
+[GMLogs]Fivework[PM] item 1072010 0 0 0 0 
+[GMLogs]Fivework[PM] tele 1002 400 400 
+[GMLogs]Fivework[PM] cps 0 
+[GMLogs]Fivework[PM] cps 999999999 
+[GMLogs]Fivework[PM] boundcp 0 
+[GMLogs]Fivework[PM] boundcps 0 
+[GMLogs]Fivework[PM] item 1072010 0 0 0 0 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] item2 1072010 
+[GMLogs]Fivework[PM] itemm 1072010 
+[GMLogs]Fivework[PM] itemmtime 1072010 
+[GMLogs]Fivework[PM] itemmtime 1072010 0 0 0 0 0 
+[GMLogs]Fivework[PM] itemmtime 1072010 0 0 0 0 
+[GMLogs]Fivework[PM] item2 1080001 
+[GMLogs]Fivework[PM] item2 1088001 
+[GMLogs]Fivework[PM] item2 723920 
+[GMLogs]Fivework[PM] item2 2100075 
+[GMLogs]Fivework[PM] item2 721030 
+[GMLogs]Fivework[PM] item2 721031 
+[GMLogs]Fivework[PM] item2 721032 
+[GMLogs]Fivework[PM] item2 721033 
+[GMLogs]Fivework[PM] item2 721090 
+[GMLogs]Fivework[PM] item2 721084 
+[GMLogs]Fivework[PM] class 45 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] itemm 159753 
+[GMLogs]Fivework[PM] reallot 
+[GMLogs]Fivework[PM] item 2 780020 
+[GMLogs]Fivework[PM] item2 780020 
+[GMLogs]Fivework[PM] itemm 780020 
+[GMLogs]Fivework[PM] item2 721084 
+[GMLogs]Fivework[PM] clear 
+[GMLogs]Fivework[PM] item2 721084 

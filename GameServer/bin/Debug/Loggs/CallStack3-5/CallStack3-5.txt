@@ -1,0 +1,4 @@
+[CallStack]Fivework[PM] lost 675 he have 28920
+[CallStack]Fivework[PM] lost 215 he have 28245
+[CallStack]Fivework[PM] lost 28030 he have 28030
+[CallStack]Hypnose get 28030 he have 0

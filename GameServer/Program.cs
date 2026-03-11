@@ -23,7 +23,7 @@ namespace COServer
 
         public static VoteRank VoteRank;
         public static List<EventsLib.BaseEvent> Events = new List<EventsLib.BaseEvent>();
-        public static Discord DiscordAPI = new Discord("https://discord.com/api/webhooks/1350119432281653260/_9LEa3oSPi0NVSw0RmSPAHgVyS6cDgk6GqN4DWCLLs3xh1NFFc2cOeex22nJRxnZ-RNR");
+        public static Discord DiscordAPI = new Discord("https://discord.com/api/webhooks/1479705395827052554/cVhIsIZm8yr8wVGEwJeGo3gBjfGzZmwfEDLjVAbRSTnm9JoUNPuvwvRwSPaPKa9gaTNw");
         public static Discord DiscordAPIsocket = new Discord("https://discord.com/api/webhooks/1344900319850659890/xWx54eysEH7nrth7hI8Z_5eeAvCNuPr1I4C5dMy9aANACwriRDR7nDGZZknMYBWULvKR");
         public static Discord DiscordAPIevents = new Discord("https://discord.com/api/webhooks/1344900809166422086/NgpmlUFSejpvg6hfGiPvLvroWs1i8qykVB5NA00p9FRgxQypyVf3Q9_ouPTDxU1vyWOO");
         public static Discord DiscordAPIworld = new Discord("https://discord.com/api/webhooks/1344902820616339486/ltKy_GfRDxjpnfFn8w2A5J7-ZYHQU-235E9EPKWxcgDibyBrGcX4mJJsCCoBR3lDEexw");
@@ -113,7 +113,7 @@ namespace COServer
         {
             public static string CO2Folder = "";
             public static string XtremeTopLink = "https://www.xtremetop100.com/in.php?site=1132376247";
-            public static string IPAddres = "144.217.173.221";
+            public static string IPAddres = "26.123.154.65";
             public static ushort GamePort = 5816;
             public static string ServerName = "CoPrivate";
             public static string OfficialWebSite = "origensco.com";
@@ -126,7 +126,7 @@ namespace COServer
             public static uint ExpRateSpell = 5;
             public static uint ExpRateProf = 5;
             public static bool IsInterServer = false;
-            public static uint UserExpRate = 5;
+            public static uint UserExpRate = 10;
             public static int PhysicalDamage = 100;// + 150%
         }
 

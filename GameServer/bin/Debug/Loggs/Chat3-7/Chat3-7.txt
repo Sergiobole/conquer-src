@@ -1,0 +1,67 @@
+[Chat]Fivework[PM] to All  /memo fds
+[Chat]Fivework[PM] to All  @memo fdfds
+[Chat]Fivework[PM] to All  /a dsfds
+[Chat]Fivework[PM] to All  /ann fdsfds
+[Chat]Fivework[PM] to All  /announce fdfds
+[Chat]Fivework[PM] to All  @ann
+[Chat]Fivework[PM] to All  /bc fdksjfds
+[Chat]Fivework[PM] to All  /testwar2
+[Chat]Fivework[PM] to All  /clear
+[Chat]Fivework[PM] to All  /clear
+[Chat]Fivework[PM] to All  /clear
+[Chat]Fivework[PM] to All  /itemid 2100097
+[Chat]Fivework[PM] to All  /itemid 2100097 0 0 0 0
+[Chat]Fivework[PM] to All  /item 2100097 0 0 0 0
+[Chat]Fivework[PM] to All  /iditem 2100097 0 0 0 0
+[Chat]Fivework[PM] to All  /ph
+[Chat]Fivework[PM] to All  /commands
+[Chat]Fivework[PM] to All  @commands
+[Chat]Fivework[PM] to All  /commands
+[Chat]Fivework[PM] to All  /iditem 780020 0 0 0 0
+[Chat]Fivework[PM] to All  /iditem 780020
+[Chat]Fivework[PM] to All  /itemid 780020
+[Chat]Fivework[PM] to All  /itemid 780020 0 0 0 0
+[Chat]Fivework[PM] to All  /item 780020 0 0 0 0
+[Chat]Fivework[PM] to All  /item 780020
+[Chat]Fivework[PM] to All  /item 780020 0 0 0 0
+[Chat]Fivework[PM] to All  /item 780000 0 0 0 0
+[Chat]Fivework[PM] to All  /item 1072010
+[Chat]Fivework[PM] to All  /item 1072010 0 0 0 0
+[Chat]Fivework[PM] to All  /tele 1002 400 400
+[Chat]Fivework[PM] to All  /cps 0
+[Chat]Fivework[PM] to All  /cps 999999999
+[Chat]Fivework[PM] to All  /boundcp 0
+[Chat]Fivework[PM] to All  /boundcps 0
+[Chat]Fivework[PM] to All  /item 1072010 0 0 0 0
+[Chat]Fivework[PM] to All  /rev
+[Chat]Fivework[PM] to All  /item2 1072010
+[Chat]Fivework[PM] to All  /itemm 1072010
+[Chat]Fivework[PM] to All  /itemmtime 1072010
+[Chat]Fivework[PM] to All  /itemmtime 1072010 0 0 0 0 0
+[Chat]Fivework[PM] to All  /itemmtime 1072010 0 0 0 0
+[Chat]Fivework[PM] to All  /item2 1080001
+[Chat]Fivework[PM] to All  /item2 1088001
+[Chat]Fivework[PM] to All  /item2 723920
+[Chat]Fivework[PM] to All  /item2 2100075
+[Chat]Fivework[PM] to All  /item2 721030
+[Chat]Fivework[PM] to All  /item2 721031
+[Chat]Fivework[PM] to All  /item2 721032
+[Chat]Fivework[PM] to All  /item2 721033
+[Chat]Fivework[PM] to All  /item2 721090
+[Chat]Fivework[PM] to All  /item2 721084
+[Chat]Fivework[PM] to All  /class 45
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /itemm 159753
+[Chat]Fivework[PM] to All  /reallot
+[Chat]Fivework[PM] to All  /item 2 780020
+[Chat]Fivework[PM] to All  /item2 780020
+[Chat]Fivework[PM] to All  /itemm 780020
+[Chat]Fivework[PM] to All  /item2 721084
+[Chat]Fivework[PM] to All  /clear
+[Chat]Fivework[PM] to All  /item2 721084

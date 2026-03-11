@@ -6243,7 +6243,7 @@ Amount=7950
 721254 JadeKylin 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Peace~Jade~Quest]~Dropped~by~Blade~Ghosts 5
 721258 CleanWater 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 135 QuestItem [First~rebirth~quest]~Take~it~and~7~normal~gems~(TortoiseGem~not~included)~to~find~Celestine~in~Central~Plain~(365~92). 8
 721259 CelestialStone 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1000 QuestItem [First~rebirth~quest]~Take~it~to~find~Eternity~at~Market~(298,217)~to~finish~the~first~rebirth. 8
-721260 �������?0 0 0 0 0 0 0 0 0 0 1000 5000950 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 GiftBox װ�����޴���������Ѱ�ر������� 5
+721260        ?0 0 0 0 0 0 0 0 0 0 1000 5000950 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 GiftBox װ     ޴         Ѱ ر        5
 721261 Bomb 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 CommonItem Blows~up~the~Guild~gate~and~kills~Bomb~user. 5
 721262 Saltpeter 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Blow~Up~the~Guild~Gate~Quest]~A~Bomb~material. 5
 721263 Sulphur 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Blow~Up~the~Guild~Gate~Quest]~A~Bomb~material. 5
@@ -6306,7 +6306,7 @@ Amount=7950
 721542 WaningMoonBox 0 0 0 0 0 0 0 0 0 0 0 1050230 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 50000 GiftBox [Treasure~Labyrinth~Quest]~Open~to~get~prize 5
 721543 StarBox 0 0 0 0 0 0 0 0 0 0 0 1050250 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 GiftBox [Treasure~Labyrinth~Quest]~Open~to~get~prize 5
 721544 CloudBox 0 0 0 0 0 0 0 0 0 0 0 1050270 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 GiftBox [Treasure~Labyrinth~Quest]~Open~to~get~prize 5
-721545 91Ǭ�������?0 0 0 0 0 0 0 0 0 0 0 8500093 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 GiftBox �򿪺���Եõ�Ǭ�����һ������ 5
+721545 91Ǭ       ?0 0 0 0 0 0 0 0 0 0 0 8500093 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 GiftBox  򿪺   Եõ Ǭ     һ       5
 721575 EvilCasket 0 0 0 0 0 0 0 0 0 0 0 8901635 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 GiftBox Open~to~get~awards~for~killing~GlaiveVagrant~and~FlagMonster. 5
 721600 RoseCard 0 0 0 0 0 0 0 0 3 0 0 000 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 00 00 0 0 0 0 QuestItem [Valentines2008]~This~beautiful~rose~card~carries~the~intentions~of~love. 5
 721601 LilyCard 0 0 0 0 0 0 0 0 3 0 0 000 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 00 00 0 0 0 0 QuestItem [Valentines2008]~This~beautiful~lily~card~carries~the~intentions~of~love. 5
@@ -6526,7 +6526,7 @@ Amount=7950
 722027 Egg(Pluto) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem Easter~Quest. 5
 722028 Egg(Neptune) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem Easter~Quest. 5
 722029 Egg(Uranus) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem Easter~Quest. 5
-722030 �����?0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [�氮None������]�������ƽ���˫����(398,444)��͢�����ɻ�������֮�� 5
+722030      ?0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [ 氮None      ]       ƽ   ˫    (398,444)  ͢     ɻ       ֮   5
 722031 Egg(Moon) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem Easter~Quest. 5
 722032 Egg(Star) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem Easter~Quest. 5
 722033 Egg(Galaxy) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem Easter~Quest. 5
@@ -6776,9 +6776,9 @@ Amount=7950
 722807 FireSpiritFang 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Save~The~Villagers~Quest] 5
 722808 Aweto 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Save~The~Villagers~Quest] 5
 722809 SaviorPill 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Save~The~Villagers~Quest] 5
-722812 �ر�ͼ 0 0 0 0 0 0 0 0 0 0 0 7503020 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 QuestItem �����ʯ����ȱ�ٵı���?5
-722813 �Ż�ʯ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 QuestItem ��˵������ĸ��ʧ����ʯ 5
-722814 ����ʯ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 QuestItem ��˵������ĸ��ʧ����ʯ 5
+722812  ر ͼ 0 0 0 0 0 0 0 0 0 0 0 7503020 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 QuestItem      ʯ    ȱ ٵı   ?5
+722813  Ż ʯ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 QuestItem   ˵      ĸ  ʧ    ʯ 5
+722814     ʯ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1000 0 0 0 0 QuestItem   ˵      ĸ  ʧ    ʯ 5
 722817 TangFresco 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Save~The~Villagers~Quest] 5
 722818 KingSword 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Save~The~Villagers~Quest] 5
 722819 AmberCup 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Save~The~Villagers~Quest] 5
@@ -6894,8 +6894,8 @@ Amount=7950
 723465 YellowCrane 0 0 0 0 0 0 0 0 3 0 0 7581600 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Valentine`s~day]~Fly~it~by~the~MoonWell~with~a~ValentineBag~to~make~2~wishes. 5
 723466 BlueCrane 0 0 0 0 0 0 0 0 3 0 0 7581620 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Valentine`s~day]~Fly~it~by~the~MoonWell~with~a~ValentineBag~to~make~3~wishes. 5
 723467 LordToken 0 0 0 0 0 0 0 0 9 0 0 00 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 00 00 0 0 0 0 QuestItem Depending~on~how~many~Lord~Tokens~you~have,~special~rewards~and~CPs~are~available~at~the~Guild~Chief! 5
-723470 Candle 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~A~wax~candle,~typically~carried~by~Parafin~Goaties!~Excellent~for~making~jack-o��-lanterns! 5
-723471 Pumpkin 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~A~pumpkin,~typically~carried~by~Pumpkin~Goaties!~Excellent~for~carving~jack-o��-lanterns! 5
+723470 Candle 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~A~wax~candle,~typically~carried~by~Parafin~Goaties!~Excellent~for~making~jack-o  -lanterns! 5
+723471 Pumpkin 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~A~pumpkin,~typically~carried~by~Pumpkin~Goaties!~Excellent~for~carving~jack-o  -lanterns! 5
 723472 jack-o`-lantern 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~Jack-o`-lantern~needs~some~normal~dialogues~and~dialogues~about~claiming~prizes~in~the~quest. 5
 723473 PetrifiedResin 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~After~killing~stoned~golems,~their~special~resin~can~be~used~to~help~the~Crystal~Oracle~think. 5
 723474 Hermet`sScroll 0 0 0 0 0 0 0 0 3 0 0 7235680 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~This~scroll~contains~incoherent~ramblings~of~an~estranged~hermit,~seemingly~of~no~value~to~anyone. 5
@@ -6903,10 +6903,10 @@ Amount=7950
 723476 VampireBlood 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~A~drop~of~sizzling~necrotizing~poison!~Turns~people~into~vampires,~but~is~also~useful~when~trading~with~Demons. 5
 723477 StickyPlasma 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~Why~would~you~ever~scrape~something~like~this~off~the~floor?~Who~knows!~But~at~least~put~it~into~a~container~of~sorts! 5
 723478 WerewolfFur 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~This~werewolf~fur~seems~rather~mundane,~appearing~more~like~an~extra~wooly~sheepskin.. 5
-723479 BatLeather 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~This~blackish~skin~is~both~stretchy~and~soft.~So~THAT��s~how~vampires~make~all~their~skin-tight~PVC! 5
-723480 MangySkin 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~As~noted~in~it��s~name,~this~skin~is~mangy,~dirty~and~smells~disgusting. 5
+723479 BatLeather 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~This~blackish~skin~is~both~stretchy~and~soft.~So~THAT  s~how~vampires~make~all~their~skin-tight~PVC! 5
+723480 MangySkin 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~As~noted~in~it  s~name,~this~skin~is~mangy,~dirty~and~smells~disgusting. 5
 723481 Vampire`sCloak 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~Lavar~en~lavadora,~con~agua~fria,~separado~no~usar,~blanqueador,~secar~solo,~con~aire,~no~usar~calor,~plancha~si~se~necesita. 5
-723482 CandyWrapper 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~This~scrunched~up~candy~wrapper~appears~to~have~no~value~at~all.~But~if~given~to~a~jack-o��-lantern�� 5
+723482 CandyWrapper 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~This~scrunched~up~candy~wrapper~appears~to~have~no~value~at~all.~But~if~given~to~a~jack-o  -lantern   5
 723483 VampireCandy 0 0 0 0 0 0 0 0 3 0 0 7235500 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween~2007]~The~fabled~vampire~candy!~But~what~could~it~do?~Only~those~who~eat~it~will~know! 5
 723484 RecoveryPlasm 0 0 0 0 0 0 0 0 3 0 0 9000040 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Drug This~magical~item~fully~recovers~a~players~HP! 5
 723485 RecoveryPack 0 0 0 0 0 0 0 0 3 0 0 9000030 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 QuestItem [Halloween]~Open~and~obtain~3~Recovery~Plasms! 5

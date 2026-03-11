@@ -1,0 +1,13 @@
+D:\Conquer\Carniato\5095\conquer-src\AccServer\bin\Debug\AccServer.exe.config
+D:\Conquer\Carniato\5095\conquer-src\AccServer\bin\Debug\AccServer.exe
+D:\Conquer\Carniato\5095\conquer-src\AccServer\bin\Debug\AccServer.pdb
+D:\Conquer\Carniato\5095\conquer-src\AccServer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Conquer\Carniato\5095\conquer-src\AccServer\bin\Debug\Renci.SshNet.dll
+D:\Conquer\Carniato\5095\conquer-src\AccServer\bin\Debug\Renci.SshNet.xml
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.csproj.AssemblyReference.cache
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.csproj.SuggestedBindingRedirects.cache
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.exe.config
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.csproj.CoreCompileInputs.cache
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.csproj.Up2Date
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.exe
+D:\Conquer\Carniato\5095\conquer-src\AccServer\obj\Debug\AccServer.pdb

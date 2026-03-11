@@ -1,0 +1,24 @@
+[Chat]Fivework[PM] to All  @scroll tc
+[Chat]Fivework[PM] to All  @tele 1004 400 400
+[Chat]Fivework[PM] to All  @commands
+[Chat]Fivework[PM] to All  @boundcps 9999
+[Chat]Fivework[PM] to All  @cps 999
+[Chat]Fivework[PM] to All  @cps 999
+[Chat]Fivework[PM] to All  @rev
+[Chat]Fivework[PM] to All  /rev
+[Chat]Fivework[PM] to All  /cps 999
+[Chat]Fivework[PM] to All  /scroll tc
+[Chat]Fivework[PM] to All  /boundcps 9999
+[Chat]Fivework[PM] to All  /onlinepoints 1000
+[Chat]Fivework[PM] to All  /onlinepoints 100000
+[Chat]Fivework[PM] to All  /level 50
+[Chat]Fivework[PM] to All  /scroll tc
+[Chat]Fivework[PM] to All  /scroll dc
+[Chat]Fivework[PM] to All  /scroll ac
+[Chat]Fivework[PM] to All  /scroll bi
+[Chat]Fivework[PM] to All  /item 721263 
+[Chat]Fivework[PM] to All  /item 721263 0 0 0 0
+[Chat]Fivework[PM] to All  /boundcps 9999
+[Chat]Fivework[PM] to All  /semper
+[Chat]Fivework[PM] to All  /bcps 9999
+[Chat]Fivework[PM] to All  /scroll ma
