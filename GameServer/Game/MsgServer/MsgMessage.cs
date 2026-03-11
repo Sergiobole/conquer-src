@@ -2592,26 +2592,20 @@ namespace COServer.Game.MsgServer
                                     }
                                     break;
                                 }
-                            case "item10":
-                                {
-                                    uint ID = 0;
-                                    if (!uint.TryParse(data[1], out ID))
-                                    {
-                                        client.SendSysMesage("Invlid item ID !");
-                                        break;
-                                    }
-									uint qtd = 0; // quantidade que o player digitou
-									else if (!uint.TryParse(data[2], out qtd))
+							case "itemm":
+								{
+									uint ID = 0;
+									if (!uint.TryParse(data[1], out ID))
 									{
 										client.SendSysMesage("Invlid item ID !");
 										break;
 									}
 									using (var rec = new ServerSockets.RecycledPacket())
-                                        client.Inventory.AddItemWitchStack(ID, 0, qtd, rec.GetStream(), false);
+										client.Inventory.AddItemWitchStack(ID, 0, 10, rec.GetStream(), false);
 
-                                    break;
-                                }
-                            case "item2":
+									break;
+								}
+							case "item2":
                                 {
                                     uint ID = 0;
                                     if (!uint.TryParse(data[1], out ID))
