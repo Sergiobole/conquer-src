@@ -6874,3 +6874,58 @@
 [GMLogs]Fivework[PM] item2 721084 
 [GMLogs]Fivework[PM] clear 
 [GMLogs]Fivework[PM] item2 721084 
+[GMLogs]Fivework[PM] itemid 780010 
+[GMLogs]Fivework[PM] itemadd 780010 
+[GMLogs]Fivework[PM] additem 780010 
+[GMLogs]Fivework[PM] item 780010 0 0 0 0 
+[GMLogs]Fivework[PM] item 159753 0 0 0 0 
+[GMLogs]Fivework[PM] item 780020 0 0 0 0 
+[GMLogs]Fivework[PM] item 780020 
+[GMLogs]Fivework[PM] rev 
+[GMLogs]Fivework[PM] item 720374 
+[GMLogs]Fivework[PM] item 720374 0 0 0 0 
+[GMLogs]Fivework[PM] item 194885 0 0 0 0 
+[GMLogs]Fivework[PM] thresh 
+[GMLogs]Fivework[PM] role 
+[GMLogs]Fivework[PM] rolescale 10 
+[GMLogs]Fivework[PM] rolescale 
+[GMLogs]Fivework[PM] scale 
+[GMLogs]Fivework[PM] rolescale 40 
+[GMLogs]Fivework[PM] rolescale 80 
+[GMLogs]Fivework[PM] tele 1002 421 381 
+[GMLogs]Fivework[PM] teleport 1002 421 381 
+[GMLogs]Fivework[PM] tp 1002 421 381 
+[GMLogs]Fivework[PM] itemtime  
+[GMLogs]Fivework[PM] itemtime 720374 
+[GMLogs]Fivework[PM] itemm 720374 
+[GMLogs]Fivework[PM] item2 720374 
+[GMLogs]Fivework[PM] item2 159753 
+[GMLogs]Fivework[PM] item2 780010 
+[GMLogs]Fivework[PM] item2 780020 
+[GMLogs]Fivework[PM] item2 780000 
+[GMLogs]Fivework[PM] item2 720374 
+[GMLogs]Fivework[PM] item2 194305 
+[GMLogs]Fivework[PM] item2 188505 
+[GMLogs]Fivework[PM] item2 194885 
+[GMLogs]Fivework[PM] item2 196795 
+[GMLogs]Fivework[PM] item2 722457 
+[GMLogs]Fivework[PM] item2 722339 
+[GMLogs]Fivework[PM] item2 195345 
+[GMLogs]Fivework[PM] item2 188065 
+[GMLogs]Fivework[PM] item2 199575 
+[GMLogs]Fivework[PM] item2 199585 
+[GMLogs]Fivework[PM] item2 199575 
+[GMLogs]Fivework[PM] item2 199595 
+[GMLogs]Fivework[PM] item2 199585 
+[GMLogs]Fivework[PM] item2 199605 
+[GMLogs]Fivework[PM] item2 199615 
+[GMLogs]Fivework[PM] item2 199625 
+[GMLogs]Fivework[PM] item2 199645 
+[GMLogs]Fivework[PM] item2 202019 
+[GMLogs]Fivework[PM] item2 723990 
+[GMLogs]Fivework[PM] item2 202019 
+[GMLogs]Fivework[PM] item2 480429 
+[GMLogs]Fivework[PM] item2 500459 
+[GMLogs]Fivework[PM] item2 500449 
+[GMLogs]Fivework[PM] item2 500449 
+[GMLogs]Fivework[PM] scroll tc 

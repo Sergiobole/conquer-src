@@ -1081,3 +1081,58 @@
 [Chat]Robinho to Sephiroth[PM] o vip miner é um token? posso comprar aqui e passar no trade?
 [Chat]Mizuki to PassaFome /scroll bi
 [Chat]Mizuki to PassaFome /scroll bi
+[Chat]Fivework[PM] to All  /itemid 780010
+[Chat]Fivework[PM] to All  /itemadd 780010
+[Chat]Fivework[PM] to All  /additem 780010
+[Chat]Fivework[PM] to All  /item 780010 0 0 0 0
+[Chat]Fivework[PM] to All  /item 159753 0 0 0 0
+[Chat]Fivework[PM] to All  /item 780020 0 0 0 0
+[Chat]Fivework[PM] to All  /item 780020
+[Chat]Fivework[PM] to All  /rev
+[Chat]Fivework[PM] to All  /item 720374
+[Chat]Fivework[PM] to All  /item 720374 0 0 0 0
+[Chat]Fivework[PM] to All  /item 194885 0 0 0 0
+[Chat]Fivework[PM] to All  /thresh
+[Chat]Fivework[PM] to All  /role
+[Chat]Fivework[PM] to All  /rolescale 10
+[Chat]Fivework[PM] to All  /rolescale
+[Chat]Fivework[PM] to All  /scale
+[Chat]Fivework[PM] to All  /rolescale 40
+[Chat]Fivework[PM] to All  /rolescale 80
+[Chat]Fivework[PM] to All  /tele 1002 421 381
+[Chat]Fivework[PM] to All  /teleport 1002 421 381
+[Chat]Fivework[PM] to All  /tp 1002 421 381
+[Chat]Fivework[PM] to All  /itemtime 
+[Chat]Fivework[PM] to All  /itemtime 720374
+[Chat]Fivework[PM] to All  /itemm 720374
+[Chat]Fivework[PM] to All  /item2 720374
+[Chat]Fivework[PM] to All  /item2 159753
+[Chat]Fivework[PM] to All  /item2 780010
+[Chat]Fivework[PM] to All  /item2 780020
+[Chat]Fivework[PM] to All  /item2 780000
+[Chat]Fivework[PM] to All  /item2 720374
+[Chat]Fivework[PM] to All  /item2 194305
+[Chat]Fivework[PM] to All  /item2 188505
+[Chat]Fivework[PM] to All  /item2 194885
+[Chat]Fivework[PM] to All  /item2 196795
+[Chat]Fivework[PM] to All  /item2 722457
+[Chat]Fivework[PM] to All  /item2 722339
+[Chat]Fivework[PM] to All  /item2 195345
+[Chat]Fivework[PM] to All  /item2 188065
+[Chat]Fivework[PM] to All  /item2 199575
+[Chat]Fivework[PM] to All  /item2 199585
+[Chat]Fivework[PM] to All  /item2 199575
+[Chat]Fivework[PM] to All  /item2 199595
+[Chat]Fivework[PM] to All  /item2 199585
+[Chat]Fivework[PM] to All  /item2 199605
+[Chat]Fivework[PM] to All  /item2 199615
+[Chat]Fivework[PM] to All  /item2 199625
+[Chat]Fivework[PM] to All  /item2 199645
+[Chat]Fivework[PM] to All  /item2 202019
+[Chat]Fivework[PM] to All  /item2 723990
+[Chat]Fivework[PM] to All  /item2 202019
+[Chat]Fivework[PM] to All  /item2 480429
+[Chat]Fivework[PM] to All  /item2 500459
+[Chat]Fivework[PM] to All  /item2 500449
+[Chat]Fivework[PM] to All  /item2 500449
+[Chat]Fivework[PM] to All  /scroll tc

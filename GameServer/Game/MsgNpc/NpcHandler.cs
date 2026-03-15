@@ -9952,7 +9952,7 @@ namespace COServer.Game.MsgNpc
                     }
             }
         }
-        [NpcAttribute(NpcID.GM)]
+        [NpcAttribute(NpcID.GM)] // npc meio de tc
         public static void GM(Client.GameClient client, ServerSockets.Packet stream, byte Option, string Input, uint id)
         {
             Dialog dialog = new Dialog(client, stream);
@@ -10022,46 +10022,76 @@ namespace COServer.Game.MsgNpc
         }
 
 
-        #region Tournaments
+		// npc teste
+		[NpcAttribute(NpcID.TesteNPC1)]
+		public static void TesteNPC1(Client.GameClient client, ServerSockets.Packet stream, byte Option, string Input, uint id)
+		{
+			Dialog dialog = new Dialog(client, stream);
+			switch (Option)
+			{
+				case 0:
+					{
+						dialog.Text("Choose your options from the VIP Book.");
+						dialog.Option("ExpBall Loot: " + (client.Player.LootExpBall ? "Enabled" : "Disabled"), 1);
+						dialog.Option("DragonBall Loot: " + (client.Player.LootDragonBall ? "Enabled" : "Disabled"), 2);
+						dialog.Option("Leave.", 255);
+						dialog.AddAvatar(102).FinalizeDialog();
+						break;
+					}
+				case 1:
+					{
+						client.Player.LootExpBall = !client.Player.LootExpBall;
+						break;
+					}
+				case 2:
+					{
+						client.Player.LootDragonBall = !client.Player.LootDragonBall;
+						break;
+					}
+			}
+		}
 
-        //public static void CityWars(Client.GameClient client, ServerSockets.Packet stream, byte Option,
-        //    string Input, uint id)
-        //{
-        //    Dialog dialog = new Dialog(client, stream);
-        //    switch (Option)
-        //    {
-        //        case 0:
-        //            {
-        //                dialog.Text("Talent wins games, but teamwork wins championships.\n");
-        //                dialog.Text("City Wars is where your Guild can prove who's the best.\n");
-        //                dialog.Option("Join.", 1);
-        //                dialog.Option("Leave.", 255);
-        //                dialog.AddAvatar(123).FinalizeDialog();
-        //                break;
-        //            }
-        //        case 1:
-        //            {
-        //                if (client.Player.MyGuild == null)
-        //                {
-        //                    client.SendSysMesage("Please make a Guild, or join a Guild.");
-        //                    break;
-        //                }
-        //                else
-        //                {
-        //                    var War = MsgSchedules.CityWar.GetNpcTournament(id);
-        //                    if (War != null)
-        //                        War.Join(client);
-        //                    else
-        //                    {
-        //                        client.SendSysMesage("The event hasn't started yet, come back later.");
-        //                        break;
-        //                    }
-        //                }
-        //                break;
-        //            }
-        //    }
-        //}
-        [NpcAttribute(NpcID.ExitArena)]
+
+		#region Tournaments
+
+		//public static void CityWars(Client.GameClient client, ServerSockets.Packet stream, byte Option,
+		//    string Input, uint id)
+		//{
+		//    Dialog dialog = new Dialog(client, stream);
+		//    switch (Option)
+		//    {
+		//        case 0:
+		//            {
+		//                dialog.Text("Talent wins games, but teamwork wins championships.\n");
+		//                dialog.Text("City Wars is where your Guild can prove who's the best.\n");
+		//                dialog.Option("Join.", 1);
+		//                dialog.Option("Leave.", 255);
+		//                dialog.AddAvatar(123).FinalizeDialog();
+		//                break;
+		//            }
+		//        case 1:
+		//            {
+		//                if (client.Player.MyGuild == null)
+		//                {
+		//                    client.SendSysMesage("Please make a Guild, or join a Guild.");
+		//                    break;
+		//                }
+		//                else
+		//                {
+		//                    var War = MsgSchedules.CityWar.GetNpcTournament(id);
+		//                    if (War != null)
+		//                        War.Join(client);
+		//                    else
+		//                    {
+		//                        client.SendSysMesage("The event hasn't started yet, come back later.");
+		//                        break;
+		//                    }
+		//                }
+		//                break;
+		//            }
+		//    }
+		//}
+		[NpcAttribute(NpcID.ExitArena)]
         public static void ExitArena(Client.GameClient client, ServerSockets.Packet stream, byte Option, string Input, uint id)
         {
 

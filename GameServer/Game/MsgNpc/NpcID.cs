@@ -717,7 +717,10 @@ namespace COServer.Game.MsgNpc
         Level55EliteWeaponPack = uint.MaxValue - 45,
         Level67EliteHeadgearPack = uint.MaxValue - 46,
         L60UniqueGearPack = uint.MaxValue - 47,
-        VIPBook = uint.MaxValue - 48
+        VIPBook = uint.MaxValue - 48,
 
-    }
+        // NPCs teste
+        TesteNPC1 = 999999
+
+	}
 }
